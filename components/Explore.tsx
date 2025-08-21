@@ -74,7 +74,7 @@ export default function Explore() {
           >
             <p
               style={{
-                fontSize: 'clamp(16px. 1.302vw, 25px)',
+                fontSize: 'clamp(14px. 1.302vw, 25px)',
               }}
             >
               Create a Kind eSIM for yourself, an employee, or your entire team,
