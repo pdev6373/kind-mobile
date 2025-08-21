@@ -50,7 +50,7 @@ export default function CTA() {
           className="flex flex-col mx-auto"
           style={{
             fontSize: 'clamp(18px, 1.736111111vw, 25px)',
-            gap: 'clamp(24px, 2.638888889vw, 38px)',
+            gap: 'clamp(20px, 2.638888889vw, 38px)',
             maxWidth: 'max(724px, 37.71vw)',
           }}
         >
@@ -58,7 +58,7 @@ export default function CTA() {
             <p
               key={index}
               style={{
-                fontSize: 'clamp(16px. 1.302vw, 25px)',
+                fontSize: 'clamp(14px. 1.302vw, 25px)',
               }}
             >
               {content}
