@@ -36,7 +36,7 @@ export default function Explore() {
           }}
         >
           <p
-            className="font-bold leading-[1] text-[#131F28]"
+            className="font-bold leading-[1] text-[#131F28] mr-auto"
             style={{
               fontSize: 'clamp(20px, 1.822916667vw, 35px)',
             }}
