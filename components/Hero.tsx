@@ -12,7 +12,7 @@ export default function Hero() {
         gap: 'clamp(40px, 3.125vw, 60px)',
       }}
     >
-      <div>
+      <div className="flex flex-col gap-1">
         <Text
           className="leading-[0.958] font-medium text-center"
           style={{
